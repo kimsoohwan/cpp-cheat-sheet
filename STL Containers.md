@@ -12,7 +12,7 @@
    * push_back, pop_back: dynamic allocation, O(1)
    * **push_front, pop_front: dynamic allocation, O(1)**
 
-**list**, **forward_list**(C++11) (double/single linked list)
+**list**, **forward_list** (C++11) (double/single linked list)
    * push_back, pop_back: dynamic allocation, O(1)
    * push_front, pop_front: dynamic allocation, O(1)
    * **insert: O(1)**
