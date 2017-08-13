@@ -759,5 +759,7 @@ p.pop();
 
 ![QuickSort](Sorting/Animations/Quicksort.gif)
 
-https://baptiste-wicht.com/posts/2012/12/cpp-benchmark-vector-list-deque.html
-http://www.ccplusplus.com/2014/01/stl-deque-example-c.html
+## Some Links
+* https://baptiste-wicht.com/posts/2012/12/cpp-benchmark-vector-list-deque.html
+* http://www.ccplusplus.com/2014/01/stl-deque-example-c.html
+* http://homepages.e3.net.nz/~djm/cppcontainers.html
